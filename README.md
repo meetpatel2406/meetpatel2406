@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Meet Patel</h1>
 <h3 align="center">A passionate frontend and Python developer from India.</h3>
 
+<br/>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=meetpatel2406&label=Profile%20views&color=0e75b6&style=flat" alt="meetpatel2406" /> </p>
 
 - 🔭 I’m currently working on **Movie Website and Data Prediction**
 
@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/meetbpatel2406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="meetbpatel2406" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meet-patel-057513235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/meet-patel-057513235/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/meet-patel-057513235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="meet-patel-057513235/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22283699/meet-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22283699/meet-patel" height="30" width="40" /></a>
 </p>
 
